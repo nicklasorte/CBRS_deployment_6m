@@ -9,7 +9,7 @@ Run https://github.com/nicklasorte/CBRS_deployment_6m/blob/main/init_CBRS_deploy
 
 (Example include a E-DPA and P-DPA deployment.)
 
-Note that this code relies upon the Matlab Mapping Toolbox: 
+Note that this code dependency includes the Matlab Mapping Toolbox: 
 
 https://www.mathworks.com/products/mapping.html
 

@@ -11,8 +11,6 @@ addpath(folder1)
 
 %%%%%%%%%%%%%%%%%%%%%%Code for CBRS Deployment (modified to test the 6m antenna height)
 
-%%%%%%%Loading  
-load('us_cont.mat','us_cont')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%Load in the DPAs.
 load('cell_e_dpa_data.mat','cell_e_dpa_data')
